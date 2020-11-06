@@ -1,0 +1,14 @@
+.search-options{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.search-selection{
+    width: 200px;
+    margin-top: 10px;
+}
+
+.input-field{
+    margin-top: 0;
+}
